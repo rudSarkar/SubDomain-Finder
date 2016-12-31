@@ -46,10 +46,6 @@ void help(){
 }
 
 int main(int argc, char *argv[]){
-	printf("|¯  | | |¯/ |¯\ |¯| |\/| /¯\ | |\|   |¯ | |\| |¯\ |¯ |¯| ");
-	printf(" ¯| |_| |¯/ |_/ |_| |  | |¯| | | |   |¯ | | | |_/ |¯ |¯\ ");
-	printf(" ¯       ¯                                         ¯     ");
-	printf("                                               By Rudra Sarkar    ");
     if(argc != 3)
         help();
 
